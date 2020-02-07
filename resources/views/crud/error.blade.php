@@ -11,4 +11,4 @@
 
 @endsection
 
-<a href="{{url('login')}}" class="btn btn-danger"> Regresar</a>
+<a href="{{url('login')}}" class="btn btn-danger">Regresar</a>
